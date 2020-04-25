@@ -6,7 +6,7 @@ ProductApp is a SpringBoot application developed using MVC.The Product App conta
 Dal represents data access layer
 
 # Domain 
-Domain contains the database tables informatioon
+Domain contains the database tables information
 
 # Service 
 Service contains the bussiness logic for the application
